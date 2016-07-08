@@ -1,4 +1,4 @@
 # hello-world
-my first git repository
+my first git repository or not...
 
 Just typing new things
